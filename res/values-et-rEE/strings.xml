@@ -352,7 +352,7 @@
     <string name="geolocation_permissions_prompt_share" msgid="9084486342048347976">"Asukoha jagamine"</string>
     <string name="geolocation_permissions_prompt_dont_share" msgid="6303025160237860300">"Keeldu"</string>
     <string name="geolocation_permissions_prompt_remember" msgid="3118526300707348308">"Pea eelistus meeles"</string>
-    <string name="geolocation_permissions_prompt_toast_allowed" msgid="7201417941112726112">"Sellel saidil puudub juurdepääs teie asukohale. Seda saate muuta järgmiste valikute abil: Seaded &amp;gt Täpsem &amp;gt Veebisaidi kuva."</string>
+    <string name="geolocation_permissions_prompt_toast_allowed" msgid="7201417941112726112">"Sellel saidil on juurdepääs lubatud teie asukohale. Seda saate muuta järgmiste valikute abil: Seaded &amp;gt Täpsem &amp;gt Veebisaidi kuva."</string>
     <string name="geolocation_permissions_prompt_toast_disallowed" msgid="156443445797377409">"Sellel saidil puudub juurdepääs teie asukohale. Seda saate muuta järgmiste valikute abil: Seaded -&gt; Täpsem -&gt; Veebisaidi kuva."</string>
     <string name="geolocation_settings_page_title" msgid="1745477985097536528">"Kustuta asukoha juurdepääs"</string>
     <string name="geolocation_settings_page_summary_allowed" msgid="9180251524290811398">"Sellel saidil on praegu juurdepääs teie asukohale"</string>
